@@ -28,5 +28,8 @@ Raspberry
   pyqt5
     pip install PyQt5
  
+ Before Run
+   change host in client.py to be the same as gui_AI_1.py
+   run gui_AI_1.py before running client.py 
  
   
